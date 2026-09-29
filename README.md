@@ -130,6 +130,21 @@ python pca.py
 </pre>
 
 
+## Citation
+
+If you find this repository useful, please cite our paper.
+
+```
+@inproceedings{koa2026reasoning,
+  title={Reasoning on Time-Series for Financial Technical Analysis},
+  author={Koa, Kelvin J.L. and Chen, Jan and Ma, Yunshan and Zheng, Huanhuan and Chua, Tat-Seng},
+  booktitle={International Conference on Learning Representations},
+  volume={2026},
+  pages={64059-64079},
+  year={2026}
+}
+```
+
 ## License & Acknowledgements
 This project is licensed under the MIT License. See `LICENSE` for details.
 
